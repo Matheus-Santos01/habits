@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Habists criado no evento NLW Setup da Rocketseat, onde foi proposta a ideia de criar um habit tracker para 
 ter um controle de atividades diárias.
 
-- [Acesse o projeto finalizado, online](https://my-links-me.vercel.app/)
+- [Acesse o projeto finalizado, online](https://habits-e.vercel.app/)
 
 ## :memo: Licença
 
